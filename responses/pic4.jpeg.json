@@ -1,0 +1,20 @@
+{"images":[
+	{"image":"pic4.jpeg",
+	 "scores":[
+		 {"classifier_id":"Sky_Scene","name":"Sky_Scene","score":0.721234},
+		 {"classifier_id":"Outdoors","name":"Outdoors","score":0.699286},
+		 {"classifier_id":"Car","name":"Car","score":0.625666},
+		 {"classifier_id":"Sailing_Ship","name":"Sailing_Ship","score":0.604661},
+		 {"classifier_id":"Volcano","name":"Volcano","score":0.595073},
+		 {"classifier_id":"Synchronized_Swimming","name":"Synchronized_Swimming","score":0.592998},
+		 {"classifier_id":"Vise","name":"Vise","score":0.583666},
+		 {"classifier_id":"Sea_Cow","name":"Sea_Cow","score":0.579495},
+		 {"classifier_id":"Blue_Sky","name":"Blue_Sky","score":0.577797},
+		 {"classifier_id":"Sunset","name":"Sunset","score":0.573362},
+		 {"classifier_id":"People_Activity","name":"People_Activity","score":0.549196},
+		 {"classifier_id":"Swimming","name":"Swimming","score":0.540097},
+		 {"classifier_id":"Vivarium","name":"Vivarium","score":0.535906},
+		 {"classifier_id":"Bridge","name":"Bridge","score":0.534707},
+		 {"classifier_id":"Wild_Fire","name":"Wild_Fire","score":0.520766},
+		 {"classifier_id":"Landmark","name":"Landmark","score":0.520723}]}]
+}

@@ -1,0 +1,16 @@
+{"images":[
+	{"image":"pic0.jpeg",
+	 "scores":[
+		 {"classifier_id":"Bottle_Storage","name":"Bottle_Storage","score":0.622843},
+		 {"classifier_id":"Musical_Instrument","name":"Musical_Instrument","score":0.596099},
+		 {"classifier_id":"Wild_Fire","name":"Wild_Fire","score":0.568808},
+		 {"classifier_id":"Indoors","name":"Indoors","score":0.559653},
+		 {"classifier_id":"Truck","name":"Truck","score":0.535337},
+		 {"classifier_id":"Amusement_Arcade","name":"Amusement_Arcade","score":0.534413},
+		 {"classifier_id":"Birthday_Party","name":"Birthday_Party","score":0.532193},
+		 {"classifier_id":"Bottle","name":"Bottle","score":0.531853},
+		 {"classifier_id":"Riot","name":"Riot","score":0.530623},
+		 {"classifier_id":"Natural_Activity","name":"Natural_Activity","score":0.530039},
+		 {"classifier_id":"Crowd","name":"Crowd","score":0.524019},
+		 {"classifier_id":"Fire_Truck","name":"Fire_Truck","score":0.510677}]}]
+}

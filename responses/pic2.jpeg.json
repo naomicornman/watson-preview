@@ -1,0 +1,20 @@
+{"images":[
+	{"image":"pic2.jpeg",
+	 "scores":[
+		 {"classifier_id":"Underwater","name":"Underwater","score":0.735409},
+		 {"classifier_id":"Sky_Scene","name":"Sky_Scene","score":0.724779},
+		 {"classifier_id":"Air_Vehicle","name":"Air_Vehicle","score":0.704944},
+		 {"classifier_id":"Coral_Reef","name":"Coral_Reef","score":0.703941},
+		 {"classifier_id":"Hot_Air_Balloon","name":"Hot_Air_Balloon","score":0.68485},
+		 {"classifier_id":"Swimming","name":"Swimming","score":0.671525},
+		 {"classifier_id":"Bottle","name":"Bottle","score":0.667261},
+		 {"classifier_id":"Boat","name":"Boat","score":0.656849},
+		 {"classifier_id":"Scene","name":"Scene","score":0.648645},
+		 {"classifier_id":"Volcano","name":"Volcano","score":0.620533},
+		 {"classifier_id":"Water_Polo","name":"Water_Polo","score":0.596831},
+		 {"classifier_id":"Ballooning","name":"Ballooning","score":0.578882},
+		 {"classifier_id":"Kayaking","name":"Kayaking","score":0.575147},
+		 {"classifier_id":"Child","name":"Child","score":0.574179},
+		 {"classifier_id":"Fireworks","name":"Fireworks","score":0.530347},
+		 {"classifier_id":"Golden_Gate_Bridge","name":"Golden_Gate_Bridge","score":0.521864}]}]
+}

@@ -1,0 +1,18 @@
+{"images":[
+	{"image":"pic3.jpeg",
+	 "scores":[
+		 {"classifier_id":"Indoors","name":"Indoors","score":0.64378},
+		 {"classifier_id":"Fish","name":"Fish","score":0.626272},
+		 {"classifier_id":"Celebration","name":"Celebration","score":0.621031},
+		 {"classifier_id":"Escalator","name":"Escalator","score":0.603631},
+		 {"classifier_id":"Graduation","name":"Graduation","score":0.558824},
+		 {"classifier_id":"Playroom","name":"Playroom","score":0.543276},
+		 {"classifier_id":"Natural_Activity","name":"Natural_Activity","score":0.541931},
+		 {"classifier_id":"Animal_Tending","name":"Animal_Tending","score":0.540051},
+		 {"classifier_id":"Head_and_Shoulders","name":"Head_and_Shoulders","score":0.539851},
+		 {"classifier_id":"Engine_Room","name":"Engine_Room","score":0.532558},
+		 {"classifier_id":"Mixed_Color","name":"Mixed_Color","score":0.528158},
+		 {"classifier_id":"White","name":"White","score":0.524518},
+		 {"classifier_id":"Mussels","name":"Mussels","score":0.518075},
+		 {"classifier_id":"Tiger","name":"Tiger","score":0.514643}]}]
+}

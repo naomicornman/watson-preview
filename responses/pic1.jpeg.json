@@ -1,0 +1,20 @@
+{"images":[
+	{"image":"pic1.jpeg",
+	 "scores":[
+		 {"classifier_id":"Gray","name":"Gray","score":0.679449},
+		 {"classifier_id":"Sky_Scene","name":"Sky_Scene","score":0.641135},
+		 {"classifier_id":"Duck","name":"Duck","score":0.622331},
+		 {"classifier_id":"Scissors","name":"Scissors","score":0.620276},
+		 {"classifier_id":"Scene","name":"Scene","score":0.614792},
+		 {"classifier_id":"War_Ship","name":"War_Ship","score":0.613548},
+		 {"classifier_id":"Outdoors","name":"Outdoors","score":0.603577},
+		 {"classifier_id":"Natural_Activity","name":"Natural_Activity","score":0.594532},
+		 {"classifier_id":"Crevasse","name":"Crevasse","score":0.591208},
+		 {"classifier_id":"Train","name":"Train","score":0.59014},
+		 {"classifier_id":"Ocean_(waves)","name":"Ocean_(waves)","score":0.587727},
+		 {"classifier_id":"Black","name":"Black","score":0.5859},
+		 {"classifier_id":"Surf_Casting","name":"Surf_Casting","score":0.565435},
+		 {"classifier_id":"Base_Jumping","name":"Base_Jumping","score":0.539651},
+		 {"classifier_id":"Repairing","name":"Repairing","score":0.535221},
+		 {"classifier_id":"Gray_Sky","name":"Gray_Sky","score":0.509266}]}]
+}

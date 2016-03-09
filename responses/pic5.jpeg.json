@@ -1,0 +1,22 @@
+{"images":[
+	{"image":"pic5.jpeg",
+	 "scores":[
+		 {"classifier_id":"Sky_Scene","name":"Sky_Scene","score":0.719335},
+		 {"classifier_id":"Outdoors","name":"Outdoors","score":0.698689},
+		 {"classifier_id":"Scene","name":"Scene","score":0.682311},
+		 {"classifier_id":"Natural_Activity","name":"Natural_Activity","score":0.677697},
+		 {"classifier_id":"Wild_Fire","name":"Wild_Fire","score":0.67379},
+		 {"classifier_id":"Nature_Scene","name":"Nature_Scene","score":0.644304},
+		 {"classifier_id":"Cliff","name":"Cliff","score":0.637685},
+		 {"classifier_id":"Blue_Sky","name":"Blue_Sky","score":0.635728},
+		 {"classifier_id":"Burning","name":"Burning","score":0.630798},
+		 {"classifier_id":"Landmark","name":"Landmark","score":0.613354},
+		 {"classifier_id":"Bird","name":"Bird","score":0.606275},
+		 {"classifier_id":"Animal","name":"Animal","score":0.600505},
+		 {"classifier_id":"Blue","name":"Blue","score":0.592302},
+		 {"classifier_id":"Gray_Sky","name":"Gray_Sky","score":0.582815},
+		 {"classifier_id":"Rhino","name":"Rhino","score":0.581089},
+		 {"classifier_id":"Explosion","name":"Explosion","score":0.576182},
+		 {"classifier_id":"Donkey","name":"Donkey","score":0.568068},
+		 {"classifier_id":"Rainbow","name":"Rainbow","score":0.516892}]}]
+}

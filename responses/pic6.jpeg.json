@@ -1,0 +1,21 @@
+{"images":[
+	{"image":"pic6.jpeg",
+	 "scores":[
+		 {"classifier_id":"Sky_Scene","name":"Sky_Scene","score":0.679147},
+		 {"classifier_id":"Scene","name":"Scene","score":0.666781},
+		 {"classifier_id":"Nature_Scene","name":"Nature_Scene","score":0.660351},
+		 {"classifier_id":"Sunset","name":"Sunset","score":0.626632},
+		 {"classifier_id":"Sailing_Ship","name":"Sailing_Ship","score":0.625012},
+		 {"classifier_id":"Tornado","name":"Tornado","score":0.61093},
+		 {"classifier_id":"Ballooning","name":"Ballooning","score":0.60883},
+		 {"classifier_id":"Surf_Casting","name":"Surf_Casting","score":0.608561},
+		 {"classifier_id":"Miriapod","name":"Miriapod","score":0.606119},
+		 {"classifier_id":"Invertebrate","name":"Invertebrate","score":0.589661},
+		 {"classifier_id":"Insect","name":"Insect","score":0.582734},
+		 {"classifier_id":"Outdoors","name":"Outdoors","score":0.581004},
+		 {"classifier_id":"Water_Scene","name":"Water_Scene","score":0.571832},
+		 {"classifier_id":"Landmark","name":"Landmark","score":0.553696},
+		 {"classifier_id":"Cyan","name":"Cyan","score":0.510319},
+		 {"classifier_id":"Water_Sport","name":"Water_Sport","score":0.507193},
+		 {"classifier_id":"Blue","name":"Blue","score":0.502209}]}]
+}
